@@ -1,7 +1,7 @@
 extends KinematicBody2D
 
 export var speed = 400
-export var friction = 0.00001
+export var friction = 0.01
 export var acceleration = 0.1
 
 var rotation_direction = 0
